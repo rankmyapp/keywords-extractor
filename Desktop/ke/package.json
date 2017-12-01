@@ -1,0 +1,19 @@
+{
+  "name": "keywords-generator",
+  "version": "1.0.0",
+  "description": "Split a text into combined keywords",
+  "main": "keywordsGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Everton Oliveira <evertonoliveira1@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
