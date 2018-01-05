@@ -21,4 +21,4 @@ const clearKeyowrds = clearKeywords(keywords, stopwords);
 
 ```
 
-For extra information you can check a more complete usage at the `demo.js` file placed in this repo.
+For extra information you can check a more complete usage at the `demo.js` on this repo.
