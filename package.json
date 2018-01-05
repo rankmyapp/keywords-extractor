@@ -1,6 +1,6 @@
 {
-  "name": "keywords-generator",
-  "version": "1.0.0",
+  "name": "keywords-extractor",
+  "version": "0.1.0",
   "description": "Split a text into combined keywords",
   "main": "keywordsGenerator.js",
   "scripts": {
