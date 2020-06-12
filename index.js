@@ -1,5 +1,5 @@
-const { clearKeywords } = require('./keyword-cleaner');
-const { generateKeywords } = require('./keyword-builder');
+const { clearKeywords } = require('./lib/keyword-cleaner');
+const { generateKeywords } = require('./lib/keyword-builder');
 
 module.exports = {
   clearKeywords,
